@@ -54,4 +54,4 @@ The MOA (§3.4, §12) expects documentation to live in a shared repository. Keep
 
 ## Design notes
 
-The look borrows from the logo: the S-curve (wave dividers and the leaf-shaped Mission/Vision cards), the dark-to-mint gradient (buttons and photo rings), the circle (team photos, the hero rings and the circular-economy loop) and the pill shape from the project-document title bar (navigation and buttons). Animations switch off for visitors who prefer reduced motion, and the site follows the visitor's light or dark setting.
+The look borrows from the logo: the S-curve (wave dividers and the leaf-shaped Mission/Vision cards), the dark-to-mint gradient (buttons and photo rings), the circle (team photos, the hero rings and the circular-economy loop) and the pill shape from the project-document title bar (navigation and buttons). The site is light-only, on a white background. The logo is static; the only motion is a gentle fade-in on scroll and a slow dash flow on the circular-economy loop, and both switch off for visitors who prefer reduced motion.

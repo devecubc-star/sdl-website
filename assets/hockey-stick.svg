@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Hockey stick and puck">
+  <circle cx="200" cy="200" r="170" fill="#eef8e6"/>
+  <!-- ice shadow -->
+  <ellipse cx="196" cy="314" rx="138" ry="10" fill="#d5e8f7"/>
+  <!-- shaft -->
+  <path d="M283 66 L307 78 L197 292 L171 281 Z" fill="#225a08"/>
+  <path d="M291 70 L298 74 L189 288 L182 285 Z" fill="#6fae5a" opacity="0.7"/>
+  <!-- blade -->
+  <path d="M171 281 L197 292 C190 307 178 312 162 312 L88 312 C74 312 68 306 68 298 C68 290 76 286 88 286 L150 284 C160 284 167 283 171 281 Z" fill="#225a08" stroke="#225a08" stroke-width="3" stroke-linejoin="round"/>
+  <!-- blade tape -->
+  <g stroke="#c8f5aa" stroke-width="7" stroke-linecap="round">
+    <path d="M94 291 L88 307"/>
+    <path d="M110 290 L104 307"/>
+    <path d="M126 290 L120 307"/>
+    <path d="M142 289 L136 307"/>
+  </g>
+  <!-- grip tape -->
+  <path d="M283 66 L307 78 L281 129 L257 117 Z" fill="#c8f5aa"/>
+  <g stroke="#225a08" stroke-width="3" opacity="0.55">
+    <path d="M276 80 L299 94"/>
+    <path d="M269 93 L292 108"/>
+    <path d="M262 106 L285 121"/>
+  </g>
+  <path d="M281 60 L312 76 L307 85 L277 69 Z" fill="#12457a"/>
+  <!-- puck -->
+  <path d="M244 293 v13 c0 6 14 10 31 10 s31 -4 31 -10 v-13 z" fill="#12213a"/>
+  <ellipse cx="275" cy="293" rx="31" ry="10" fill="#243a5c"/>
+</svg>
